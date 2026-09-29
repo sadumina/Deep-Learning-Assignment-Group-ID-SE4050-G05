@@ -15,3 +15,5 @@ __pycache__/
 
 # Jupyter temporary files
 .ipynb_checkpoints/
+config.bat
+node_modules
